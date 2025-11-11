@@ -2,7 +2,7 @@ class Snackmoney < Formula
   desc "CLI tool for sending USDC payments via Snack Money API"
   homepage "https://github.com/snack-money/snackmoney-cli"
   url "https://registry.npmjs.org/@snackmoney/snackmoney-cli/-/snackmoney-cli-1.0.11.tgz"
-  sha256 "f0b4c89de06c70ef211af92cc2541bf1cdf5f3031fdc68df6df836d847fbba88"
+  sha256 "c4f2f365719acfaf3c532d22800af30aabb890f16bbb3d3484f6cd031fe84876"
   license "MIT"
 
   depends_on "node"
