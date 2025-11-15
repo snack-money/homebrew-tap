@@ -37,12 +37,6 @@ brew uninstall snackmoney
 brew untap snack-money/tap
 ```
 
-## Documentation
-
-For usage instructions and documentation, visit:
-- **CLI Documentation:** https://github.com/snack-money/snackmoney-cli
-- **API Documentation:** https://docs.snack.money
-
 ## How It Works
 
 This tap is automatically updated by GitHub Actions whenever a new version of the snackmoney CLI is released. The formulae are synced with the npm registry to ensure you always have access to the latest stable releases.
@@ -50,7 +44,6 @@ This tap is automatically updated by GitHub Actions whenever a new version of th
 ## Support
 
 - **CLI Issues:** https://github.com/snack-money/snackmoney-cli/issues
-- **Tap Issues:** https://github.com/snack-money/homebrew-tap/issues
 
 ## License
 
