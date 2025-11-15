@@ -1,6 +1,6 @@
 # Snack Money Homebrew Tap
 
-Official Homebrew tap for [Snack Money](https://snack.money) tools.
+Official Homebrew tap for [Snack Money CLI](https://github.com/snack-money/snackmoney-cli) tools.
 
 ## What is this?
 
